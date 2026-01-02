@@ -50,7 +50,7 @@ public class BankManager {
     }
 
     // View balance
-    public void viewBalance(int accNo) {
+    public void viewBalance(int accNo) 
         BankAccount account = accountMap.get(accNo);
 
         if (account == null) {
