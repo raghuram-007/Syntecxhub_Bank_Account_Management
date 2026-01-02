@@ -51,7 +51,7 @@ public class Main {
 
                 case 5:
                     manager.viewAllAccounts();
-                    break
+                    break;
 
                 case 6:
                     System.out.println(" Thank you for using Bank System!");
